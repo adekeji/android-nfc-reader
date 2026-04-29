@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NFC Reader</string>
+    <string name="nfc_not_supported">NFC is not supported on this device.</string>
+    <string name="nfc_disabled">NFC is disabled. Please enable it in Settings.</string>
+    <string name="nfc_enable_prompt">Please enable NFC in your device Settings to use this app.</string>
+    <string name="ready_to_scan">Hold an NFC tag near the back of your device…</string>
+    <string name="tag_detected">Tag detected!</string>
+    <string name="tag_data_hint">Tag information will appear here.</string>
+    <string name="nfc_icon_description">NFC icon</string>
+</resources>
